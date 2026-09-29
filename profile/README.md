@@ -1,3 +1,5 @@
+**简体中文** · [English](https://github.com/OpenRDHub/.github/blob/main/profile/README.en.md)
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=1F7A8C&center=true&vCenter=true&width=760&lines=Khub+OpenRD+%E7%BD%95%E8%A7%81%E7%97%85%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA;%E8%AE%A9%E7%9C%9F%E5%AE%9E%E9%9C%80%E6%B1%82%E9%95%BF%E6%88%90%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88;Patients+as+PMs%2C+open-source+as+the+method" alt="Khub OpenRD typing banner" />
@@ -9,9 +11,9 @@
   <div>&nbsp;</div>
 
   <div>
-    <a href="https://github.com/Khub-OpenRD"><img src="https://img.shields.io/badge/GitHub-Khub--OpenRD-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>&emsp;
+    <a href="https://github.com/OpenRDHub"><img src="https://img.shields.io/badge/GitHub-OpenRDHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>&emsp;
     <a href="https://github.com/OpenRare2026/OpenRare"><img src="https://img.shields.io/badge/OpenRare-Rare%20Disease%20Agent-1F7A8C?style=for-the-badge" alt="OpenRare" /></a>&emsp;
-    <a href="https://github.com/Khub-OpenRD/rare-disease-list/issues"><img src="https://img.shields.io/badge/Join%20Us-%E5%8F%82%E4%B8%8E%E5%85%B1%E5%BB%BA-2D9CDB?style=for-the-badge" alt="Join us" /></a>
+    <a href="https://github.com/Khub-OpenRD/rare-disease-list/issues"><img src="https://img.shields.io/badge/Needs-rare--disease--list-2D9CDB?style=for-the-badge" alt="Needs · Khub-OpenRD/rare-disease-list" /></a>
   </div>
 
   <div>&nbsp;</div>
@@ -20,6 +22,12 @@
   <p><i>Open-source collaboration for rare disease needs, led by patients, builders, researchers, designers, and clinicians.</i></p>
 
 </div>
+
+<p align="center"><a href="https://github.com/OpenRDHub/.github/blob/main/CONTRIBUTING.md">公开参与说明</a> · <a href="https://github.com/OpenRDHub/community/blob/main/README.md">社区协作资料</a> · <a href="https://github.com/OpenRDHub/community/blob/main/docs/knowledge/README.md">查阅社区资料</a> · <a href="https://github.com/OpenRDHub/community/blob/main/docs/knowledge/plan.md">资料归档与运营方案</a></p>
+
+<p><b>协作入口：</b>当前组织是 OpenRDHub；Khub-OpenRD/rare-disease-list 是个人账号下的既有需求入口，分拣安排待确认。OpenRare 上游贡献仍进入 OpenRare2026/OpenRare。community 已公开，可通过 Issues、PR 和 Discussions 参与社区协作。<a href="https://github.com/OpenRDHub/community/blob/main/docs/routing.md">入口归属表</a>。</p>
+
+<p align="center"><a href="https://github.com/OpenRDHub/community/issues">社区事项 Issues</a> · <a href="https://github.com/OpenRDHub/community/pulls">修改与评审 PR</a> · <a href="https://github.com/orgs/OpenRDHub/discussions">社区讨论</a> · <a href="https://github.com/orgs/OpenRDHub/projects/1">公开社区看板</a></p>
 
 <h2 align="center">Who We Are</h2>
 
@@ -74,17 +82,29 @@ Khub团队 成立于 2024 年，并于 2025 年 9 月发起 OpenRD 罕见病开�
   </tr>
   <tr>
     <td align="center"><b>想提出真实需求？</b></td>
-    <td align="center">欢迎通过 <a href="https://github.com/Khub-OpenRD/rare-disease-list/issues">GitHub Issues</a> 留下问题、病种线索或产品想法。</td>
+    <td align="center">欢迎通过 <a href="https://github.com/Khub-OpenRD/rare-disease-list/issues">既有需求池（个人账号）</a> 留下问题、病种线索或产品想法。</td>
   </tr>
   <tr>
     <td align="center"><b>想加入共建？</b></td>
     <td align="center">带着你的专业能力加入一个具体项目：代码、数据、设计、医学研究、内容传播都需要。</td>
   </tr>
   <tr>
+    <td align="center"><b>想参与社区建设？</b></td>
+    <td align="center">从 <a href="https://github.com/OpenRDHub/community/blob/main/docs/getting-started.md">community 参与指南</a> 了解文档、资料整理、运营和社区协作的参与方式。</td>
+  </tr>
+  <tr>
     <td align="center"><b>想合作支持？</b></td>
-    <td align="center">欢迎支持项目孵化、平台基建、黑客松、学习班、数据治理与联合研究。</td>
+    <td align="center">欢迎支持项目孵化、平台基建、黑客松、学习班、数据治理与联合研究。通过 <a href="https://github.com/OpenRDHub/community/blob/main/docs/resources.md">资源协作说明</a> 提供支持或提出申请。</td>
   </tr>
 </table>
+
+<h2 align="center">社区资料与协作记录</h2>
+
+<p>会议纪要、讨论过程、阶段决定与每日新增资料，都应该能够被后来的参与者找到。我们计划在微信群继续讨论，用飞书协作整理文档，将整理后的资料版本保存到 GitHub，再由文档网页统一展示。</p>
+
+<table><tr><th>我想了解</th><th>从这里进入</th></tr><tr><td>会议、讨论和资料最近有什么变化</td><td><a href="https://github.com/OpenRDHub/community/blob/main/docs/knowledge/README.md">社区资料中心</a></td></tr><tr><td>怎样整理一份记录并同步到 GitHub</td><td><a href="https://github.com/OpenRDHub/community/blob/main/docs/knowledge/record-policy.md">收录与维护约定</a></td></tr><tr><td>这套分工怎么运行、先做什么</td><td><a href="https://github.com/OpenRDHub/community/blob/main/docs/knowledge/plan.md">查看完整方案草稿</a></td></tr></table>
+
+<p><sub>community 与社区看板均已公开。组织 Discussions 与 community 共用一个讨论区；原有需求入口与项目链接继续保留。</sub></p>
 
 <h2 align="center">Featured Project</h2>
 
@@ -159,6 +179,8 @@ Khub团队 成立于 2024 年，并于 2025 年 9 月发起 OpenRD 罕见病开�
     <td>执行中 · 400+ 学员</td>
   </tr>
 </table>
+
+<p>查看 <a href="https://github.com/orgs/OpenRDHub/repositories">组织现有仓库</a>，或查阅 <a href="https://github.com/OpenRDHub/community/blob/main/docs/projects.md">项目与仓库对应目录</a>。项目介绍与仓库目录分别维护，已核验关系见对应说明。</p>
 
 <h2 align="center">How It Works</h2>
 
@@ -257,9 +279,9 @@ Khub OpenRD 是一个开放、平等、去中心化的社区。我们欢迎不�
 </p>
 
 <p align="center">
-  <a href="https://github.com/Khub-OpenRD/rare-disease-list/issues">Open an Issue</a>
+  <a href="https://github.com/Khub-OpenRD/rare-disease-list/issues">需求登记 · Khub-OpenRD</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/Khub-OpenRD">Follow Khub-OpenRD</a>
+  <a href="https://github.com/OpenRDHub">Follow OpenRDHub</a>
   &nbsp;|&nbsp;
   抖音：@OpenRD罕见病开源社区
 </p>
